@@ -1,0 +1,3 @@
+{"timestamp": "2026-10-04T07:28:59.142263+00:00", "run_id": "36067738", "region": "Guntur", "decision": "approve", "reviewer_note": "Numbers match SQL output; memo.md covers it."}
+{"timestamp": "2026-10-04T07:28:59.142536+00:00", "run_id": "36067738", "region": "Bengaluru", "decision": "edit", "reviewer_note": "Add the May to June figure to the insight."}
+{"timestamp": "2026-10-04T07:28:59.142594+00:00", "run_id": "36067738", "region": "Vijayawada", "decision": "reject", "reviewer_note": "Only -12.02% in one transition; hold."}
